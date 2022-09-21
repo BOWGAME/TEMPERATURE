@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "Huskylens": "github:dfrobot/pxt-dfrobot_huskylens#v2.0.5"
+        "Huskylens": "github:dfrobot/pxt-dfrobot_huskylens#v2.0.5",
+        "MaqueenPlus": "github:dfrobot/pxt-dfrobot-maqueenplus#v1.5.0"
     },
     "files": [
         "main.blocks",
